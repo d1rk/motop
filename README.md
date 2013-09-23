@@ -8,11 +8,11 @@ operations ordered by durations every second.
 Usage
 -----
 
-Install with easy_install::
+Install with easy_install:
 
-    easy_intall motop
+    easy_install motop
 
-Download and install::
+Download and install:
 
     ./setup.py install
 
@@ -20,7 +20,7 @@ Help::
 
     motop -h
 
-Monitor several servers::
+Monitor several servers:
 
     motop 192.168.124.50 192.158.124.51
 
